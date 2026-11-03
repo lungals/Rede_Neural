@@ -13,7 +13,7 @@ Depois selecione o cenário desejado.
 
 ## Tabela com inspector com configurações usadas
 
-![Tabela do inspector] (./Tela_Inspector.png).
+[![Tabela do inspector] (./Tela_Inspector.png).](https://github.com/lungals/Rede_Neural/blob/main/Assets/Tela_Inspector.png?raw=true)
 
 ## Respostas e registros dos testes da Parte D.
 
