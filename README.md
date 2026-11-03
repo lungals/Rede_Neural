@@ -13,7 +13,7 @@ Depois selecione o cenário desejado.
 
 ## Tabela com inspector com configurações usadas
 
-![Tabela do inspector] (./tabela_inspector.png).
+![Tabela do inspector] (./Tela_Inspector.png).
 
 ## Respostas e registros dos testes da Parte D.
 
